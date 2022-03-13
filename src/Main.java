@@ -1,4 +1,3 @@
-
 import java.awt.*;
 import java.awt.event.KeyEvent;
 
@@ -178,7 +177,6 @@ public class Main {
         }
         return temparu;
     }
-
 
     private static void writeSymbol(char  sym){
         switch (sym){
