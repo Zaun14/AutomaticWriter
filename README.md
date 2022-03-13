@@ -1,2 +1,2 @@
 # AutomaticWriter
-This bot can write messages automatic by your name ,but your pc will be under load.
+This bot can write messages automatic on your behalf, but your pc will be under load.
